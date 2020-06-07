@@ -3,7 +3,7 @@ __Projeto construído durante a Next Level Week #01, da Rocketseat.__
 
 ![alt text](https://github.com/DBzera/nlw-01/blob/master/Capa.png?raw=true)
 
-* O projeto se resume em uma plataforma Web e Mobile, ligadas pela mesma API-rest em node, e um bando SQLite.
+* O projeto se resume em uma plataforma Web e Mobile, ligadas pela mesma API-Rest em node, e um banco de dados SQLite.
 
 __Usagem__
 
