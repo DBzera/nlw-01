@@ -7,7 +7,7 @@ __Projeto construído durante a Next Level Week #01, da Rocketseat.__
 
 __Usagem__
 
-* Um estabelecimento realiza o cadastro pela Web informando os dados e o tipo de material que ele disponibiliza, e o usuário por sua vez, usando a plataforma Mobile, vê os estabelecimentos cadastrados em sua área e entra em contato caso tenha interessa na coleta dos resíduos.
+* Um estabelecimento realiza o cadastro pela Web informando os dados e o tipo de material que ele disponibiliza, e o usuário por sua vez, usando a plataforma Mobile, vê os estabelecimentos cadastrados em sua área e entra em contato caso tenha interesse na coleta dos materiais.
 
 ![alt text](https://github.com/DBzera/nlw-01/blob/master/Splash.png?raw=true)
 
